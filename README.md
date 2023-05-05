@@ -2,7 +2,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 <h3 align="center">
-Proyecto Hotel Alura, es un sistema que permite manejar los registros de los huespedes de un hotel.
+Proyecto Hotel Alura, es un sistema que permite manejar los registros de los huéspedes de un hotel.
 Se puede crear, eliminar, actualizar y observar en distintas pantallas de la aplicación.
 </h3>
 
